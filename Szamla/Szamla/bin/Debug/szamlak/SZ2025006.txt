@@ -1,0 +1,11 @@
+--- SZÁMLA ---
+Számla sorszáma: SZ2025/006
+Kibocsátó: Nova Bt., Adószám: 11221122-1-77
+Vevő: Polaris Kft., Adószám: 22112211-2-88
+Teljesítés dátuma: 2025-06-05
+Kibocsátás dátuma: 2025-06-06
+Fizetési határidő: 2025-06-20
+Tétel: Irodai papír, Mennyiség: 100, Nettó egységár: 500 HUF
+Nettó összeg: 50000 HUF
+ÁFA (27%): 13500 HUF
+Bruttó összeg: 63500 HUF
