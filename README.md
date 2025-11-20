@@ -1,1 +1,24 @@
-# Szamla
+# 📑 Számlakezelő rendszer (C#)
+
+Ez a projekt egy **C# alapú számlakezelő alkalmazás**, amely képes:
+- Több tétel kezelésére (név, darabszám, egységár, ÁFA kulcs)
+- Nettó, ÁFA és bruttó összegek automatikus számítására
+- Számlák szöveges (txt) formátumban való generálására
+- Könnyen bővíthető moduláris kódszerkezetre
+
+---
+
+## 🚀 Funkciók
+- ✅ Dinamikus tételkezelés (lista alapú)
+- ✅ Többféle ÁFA kulcs támogatása
+- ✅ Összesített nettó, ÁFA és bruttó számítás
+- ✅ Számlák exportálása txt formátumban
+- ✅ Könnyen integrálható más rendszerekbe
+
+---
+
+## 🛠️ Használat
+
+1. Klónozd a repót:
+   ```bash
+   git clone https://github.com/felhasznalo/szamla-projekt.git
