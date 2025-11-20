@@ -1,0 +1,11 @@
+--- SZÁMLA ---
+Számla sorszáma: SZ2025/004
+Kibocsátó: Delta Kft., Adószám: 55667788-1-33
+Vevő: Epsilon Bt., Adószám: 33445566-2-44
+Teljesítés dátuma: 2025-08-10
+Kibocsátás dátuma: 2025-08-11
+Fizetési határidő: 2025-08-25
+Tétel: Nyomtató, Mennyiség: 1, Nettó egységár: 120000 HUF
+Nettó összeg: 120000 HUF
+ÁFA (27%): 32400 HUF
+Bruttó összeg: 152400 HUF

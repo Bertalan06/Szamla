@@ -1,0 +1,16 @@
+Z:\IKT_12\Konzolos alkalmazás\Szamla\Szamla\bin\Debug\Szamla.exe.config
+Z:\IKT_12\Konzolos alkalmazás\Szamla\Szamla\bin\Debug\Szamla.exe
+Z:\IKT_12\Konzolos alkalmazás\Szamla\Szamla\bin\Debug\Szamla.pdb
+Z:\IKT_12\Konzolos alkalmazás\Szamla\Szamla\obj\Debug\Szamla.csproj.AssemblyReference.cache
+Z:\IKT_12\Konzolos alkalmazás\Szamla\Szamla\obj\Debug\Szamla.csproj.CoreCompileInputs.cache
+Z:\IKT_12\Konzolos alkalmazás\Szamla\Szamla\obj\Debug\Szamla.exe
+Z:\IKT_12\Konzolos alkalmazás\Szamla\Szamla\obj\Debug\Szamla.pdb
+Z:\IKT_12\Konzolos alkalmazás\Szamla\Szamla\obj\Debug\Szamla.exe.config
+C:\Users\User\Documents\Berci mappa\Suli\IKT\Szamla\Szamla\bin\Debug\Szamla.exe.config
+C:\Users\User\Documents\Berci mappa\Suli\IKT\Szamla\Szamla\bin\Debug\Szamla.exe
+C:\Users\User\Documents\Berci mappa\Suli\IKT\Szamla\Szamla\bin\Debug\Szamla.pdb
+C:\Users\User\Documents\Berci mappa\Suli\IKT\Szamla\Szamla\obj\Debug\Szamla.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Berci mappa\Suli\IKT\Szamla\Szamla\obj\Debug\Szamla.exe.config
+C:\Users\User\Documents\Berci mappa\Suli\IKT\Szamla\Szamla\obj\Debug\Szamla.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Berci mappa\Suli\IKT\Szamla\Szamla\obj\Debug\Szamla.exe
+C:\Users\User\Documents\Berci mappa\Suli\IKT\Szamla\Szamla\obj\Debug\Szamla.pdb

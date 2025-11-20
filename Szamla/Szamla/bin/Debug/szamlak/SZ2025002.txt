@@ -1,0 +1,11 @@
+--- SZÁMLA ---
+Számla sorszáma: SZ2025/002
+Kibocsátó: Gamma Szolgáltató Zrt., Adószám: 11223344-5-99
+Vevő: Delta Kft., Adószám: 99887766-3-21
+Teljesítés dátuma: 2025-10-01
+Kibocsátás dátuma: 2025-10-02
+Fizetési határidő: 2025-10-15
+Tétel: Tanácsadási szolgáltatás, Mennyiség: 10, Nettó egységár: 15000 EUR
+Nettó összeg: 150000 EUR
+ÁFA (0%): 0 EUR
+Bruttó összeg: 150000 EUR
