@@ -1,0 +1,11 @@
+--- SZÁMLA ---
+Számla sorszáma: SZ2025/003
+Kibocsátó: Omega Bt., Adószám: 44556677-1-11
+Vevő: Sigma Kft., Adószám: 22334455-2-22
+Teljesítés dátuma: 2025-09-20
+Kibocsátás dátuma: 2025-09-21
+Fizetési határidő: 2025-10-05
+Tétel: Irodai szék, Mennyiség: 5, Nettó egységár: 20000 HUF
+Nettó összeg: 100000 HUF
+ÁFA (27%): 27000 HUF
+Bruttó összeg: 127000 HUF
