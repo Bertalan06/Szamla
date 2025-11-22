@@ -1,0 +1,17 @@
+--- SZ2025/001 ---
+Számla sorszáma: 001
+Kibocsátó: Digital Solutions Kft., Adószám: 12345678-1-99
+Vevő: GlobalTech GmbH, Adószám: DE123456789
+
+Teljesítés dátuma: Teljesítetlen számla
+Kibocsátás dátuma: 2025.11.22
+Fizetési határidő: 2025.12.06
+
+Tétel:      Rendszerkarbantartás
+            Mennyiség: 1, Nettó egységár: 1200 EUR
+            Nettó összeg: 1200 EUR
+            ÁFA (27%): 324 EUR
+            Bruttó összeg: 1524 EUR
+
+Nettó végösszeg (EUR): 1 200 EUR
+Bruttó végösszeg (EUR): 1 524 EUR

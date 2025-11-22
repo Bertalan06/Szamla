@@ -1,0 +1,17 @@
+--- SZ2025/005 ---
+Számla sorszáma: 005
+Kibocsátó: MetalWorks Zrt., Adószám: 55667788-1-44
+Vevő: Építőipari Kft., Adószám: 77889900-2-55
+
+Teljesítés dátuma: 2025.11.01
+Kibocsátás dátuma: 2025.11.02
+Fizetési határidő: 2025.11.16
+
+Tétel:      Acélgerenda
+            Mennyiség: 100, Nettó egységár: 20000 HUF
+            Nettó összeg: 2000000 HUF
+            ÁFA (18%): 360000 HUF
+            Bruttó összeg: 2360000 HUF
+
+Nettó végösszeg (HUF): 2 000 000 HUF
+Bruttó végösszeg (HUF): 2 360 000 HUF
