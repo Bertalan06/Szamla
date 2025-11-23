@@ -1,0 +1,17 @@
+--- SZ2025/007 ---
+Számla sorszáma: 007
+Kibocsátó: Business Consulting Kft., Adószám: 44556677-1-55
+Vevő: London Finance Ltd., Adószám: GB11223344
+
+Teljesítés dátuma: Teljesítetlen számla
+Kibocsátás dátuma: 2025.11.10
+Fizetési határidő: 2025.11.24
+
+Tétel:      Pénzügyi tanácsadás
+            Mennyiség: 5 óra, Nettó egységár: 100 GBP
+            Nettó összeg: 500 GBP
+            ÁFA (18%): 90 GBP
+            Bruttó összeg: 590 GBP
+
+Nettó végösszeg (GBP): 500 GBP
+Bruttó végösszeg (GBP): 590 GBP
