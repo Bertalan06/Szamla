@@ -1,0 +1,17 @@
+--- SZ2025/006 ---
+Számla sorszáma: 006
+Kibocsátó: EduCenter Kft., Adószám: 33445566-1-33
+Vevő: Bright Future Academy, Adószám: US44556677
+
+Teljesítés dátuma: Teljesítetlen számla
+Kibocsátás dátuma: 2025.11.05
+Fizetési határidő: 2025.11.19
+
+Tétel:      Online kurzus
+            Mennyiség: 1, Nettó egységár: 300 USD
+            Nettó összeg: 300 USD
+            ÁFA (27%): 81 USD
+            Bruttó összeg: 381 USD
+
+Nettó végösszeg (USD): 300 USD
+Bruttó végösszeg (USD): 381 USD

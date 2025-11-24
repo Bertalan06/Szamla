@@ -1,0 +1,30 @@
+--- SZ2025/003 ---
+Számla sorszáma: 003
+Kibocsátó: Gourmet Catering Kft., Adószám: 77889900-1-66
+Vevő: EventOrg GmbH, Adószám: DE44556677
+
+Teljesítés dátuma: 2025.11.09
+Kibocsátás dátuma: 2025.11.09
+Fizetési határidő: 2025.11.23
+
+Tétel:      Hidegtál
+            Mennyiség: 10, Nettó egységár: 25 EUR
+            Nettó összeg: 250 EUR
+            ÁFA (18%): 45 EUR
+            Bruttó összeg: 295 EUR
+
+Tétel:      Meleg étel menü
+            Mennyiség: 20, Nettó egységár: 30 EUR
+            Nettó összeg: 600 EUR
+            ÁFA (18%): 108 EUR
+            Bruttó összeg: 708 EUR
+
+Tétel:      Italcsomag
+            Mennyiség: 15, Nettó egységár: 10 EUR
+            Nettó összeg: 150 EUR
+            ÁFA (18%): 27 EUR
+            Bruttó összeg: 177 EUR
+
+Nettó végösszeg (EUR): 1 000 EUR
+Bruttó végösszeg (EUR): 1 180 EUR
+

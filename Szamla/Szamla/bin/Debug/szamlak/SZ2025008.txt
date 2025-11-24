@@ -1,0 +1,29 @@
+SZ2025/008
+Számla sorszáma: 008
+Kibocsátó: OfficeSupplies Kft., Adószám: 22334455-1-22
+Vevő: Smart Solutions Zrt., Adószám: 55667788-2-33
+
+Teljesítés dátuma: 2025.11.22
+Kibocsátás dátuma: 2025.11.22
+Fizetési határidő: 2025.12.06
+
+Tétel:      Nyomtatópapír A4
+            Mennyiség: 10, Nettó egységár: 1200 HUF
+            Nettó összeg: 12000 HUF
+            ÁFA (27%): 3240 HUF
+            Bruttó összeg: 15240 HUF
+
+Tétel:      Toll készlet
+            Mennyiség: 5, Nettó egységár: 800 HUF
+            Nettó összeg: 4000 HUF
+            ÁFA (27%): 1080 HUF
+            Bruttó összeg: 5080 HUF
+
+Tétel:      Fénymásoló toner
+            Mennyiség: 2, Nettó egységár: 15000 HUF
+            Nettó összeg: 30000 HUF
+            ÁFA (27%): 8100 HUF
+            Bruttó összeg: 38100 HUF
+
+Nettó végösszeg (HUF): 46 000 HUF
+Bruttó végösszeg (HUF): 58 420 HUF

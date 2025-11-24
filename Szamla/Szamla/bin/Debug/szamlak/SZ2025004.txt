@@ -1,0 +1,29 @@
+--- SZ2025/004 ---
+Számla sorszáma: 004
+Kibocsátó: OnlineShop Kft., Adószám: 99001122-1-88
+Vevő: Nagy Ádám, Adószám: -
+
+Teljesítés dátuma: 2025.11.21
+Kibocsátás dátuma: 2025.11.21
+Fizetési határidő: 2025.12.05
+
+Tétel:      Laptop
+            Mennyiség: 1, Nettó egységár: 250000 HUF
+            Nettó összeg: 250000 HUF
+            ÁFA (27%): 67500 HUF
+            Bruttó összeg: 317500 HUF
+
+Tétel:      Egér
+            Mennyiség: 2, Nettó egységár: 5000 HUF
+            Nettó összeg: 10000 HUF
+            ÁFA (27%): 2700 HUF
+            Bruttó összeg: 12700 HUF
+
+Tétel:      Monitor
+            Mennyiség: 1, Nettó egységár: 60000 HUF
+            Nettó összeg: 60000 HUF
+            ÁFA (27%): 16200 HUF
+            Bruttó összeg: 76200 HUF
+
+Nettó végösszeg (HUF): 320 000 HUF
+Bruttó végösszeg (HUF): 406 400 HUF
