@@ -117,14 +117,14 @@ namespace Szamla
                 szamlaKelte = Console.ReadLine();
                 if (szamlaKelte == "")
                 {
-                    szamlaKelte = $"{DateTime.Today.Year}-{DateTime.Today.Month}-{DateTime.Today.Day}";
+                    szamlaKelte = DateTime.Today.ToString("yyyy-MM-dd");
                 }
 
                 Console.Write("Teljesítés dátuma (ÉÉÉÉ-HH-NN) (enter = mai nap; 0 = teljesítetlen számla): ");
                 teljesitesDatum = Console.ReadLine();
                 if (teljesitesDatum == "")
                 {
-                    teljesitesDatum = $"{DateTime.Today.Year}-{DateTime.Today.Month}-{DateTime.Today.Day}";
+                    teljesitesDatum = DateTime.Today.ToString("yyyy-MM-dd");
                 }
                 else if (teljesitesDatum == "0")
                 {
@@ -135,7 +135,7 @@ namespace Szamla
                 fizetesiHatarido = Console.ReadLine();
                 if (fizetesiHatarido == "")
                 {
-                    fizetesiHatarido = $"{DateTime.Today.Year}-{DateTime.Today.Month}-{DateTime.Today.Day}";
+                    fizetesiHatarido = DateTime.Today.ToString("yyyy-MM-dd");
                 }
                 if (datumValidalas(teljesitesDatum, szamlaKelte, fizetesiHatarido))
                 {
