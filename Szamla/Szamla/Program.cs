@@ -118,6 +118,8 @@ namespace Szamla
                 if (szamlaKelte == "")
                 {
                     szamlaKelte = DateTime.Today.ToString("yyyy-MM-dd");
+                    //Console.WriteLine($"{DateTime.Today.Year}-{DateTime.Today.Month}-{DateTime.Today.Day}"); -> 4
+                    //Console.WriteLine(DateTime.Today.ToString("yyyy-MM-dd")); -> 04
                 }
 
                 Console.Write("Teljesítés dátuma (ÉÉÉÉ-HH-NN) (enter = mai nap; 0 = teljesítetlen számla): ");
